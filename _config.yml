@@ -3,7 +3,7 @@
 title: Ach Izalul Haq
 description: Infra Engineer | Security R&D | Open Source
 
-baseurl: /portfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "izalul.com" #custom url to be used instead of GitHub repository
 email: izalulhaq@hotmail.com
 
