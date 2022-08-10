@@ -17,12 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "https://www.linkedin.com/in/izalul/"
-github: "https://github.com/northboys"
-researchgate: "#"
-orcid: "#"
+linkedin: "izalul"
+github: "northboys"
 
 highlighter: rouge
 markdown: kramdown
