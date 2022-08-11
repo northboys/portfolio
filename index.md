@@ -6,9 +6,12 @@ profile:
   image: profile.png
 published: true
 ---
+I’m Izalul, 23yr old Cloud Native Technology Enthusiast & Security Enthusiast. I love to build & break things and I open-source almost everything I can, mostly for security and bug bounty stuff that to pwn & automate all the things.
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I have degree bachelor Computer Engineering especially Cyber Security, so keep in mind that if you want to ![hire me](https://www.linkedin.com/in/izalul/), I’m working as IT Infrastructure Engineer at [Mitra Informatika](https://mit.id/)currently learning how to code.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+<div>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=northboys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</div>
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+
