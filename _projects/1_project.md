@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Cloudflare Grafana
+description: Grafana Dashboard that shows Cloudflare Overviews and Analytics from the RESTful API
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+Example modified from [here](https://github.com/northboys/cloudflare-grafana)
+{:target="_blank"}.
 
 H1 Header
 ============
