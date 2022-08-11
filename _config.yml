@@ -5,7 +5,7 @@ description: Infra Engineer | Security R&D | Open Source
 
 baseurl: / #name of GitHub repository
 url: "izalul.com" #custom url to be used instead of GitHub repository
-email: izalulhaq@hotmail.com
+email: my@izalul.com
 
 
 highlighter: rouge
