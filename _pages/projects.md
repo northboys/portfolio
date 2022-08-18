@@ -16,8 +16,8 @@ published: true
   {% if project.redirect %}
   <div class="projectTile">
           <span>
-          <a href="https://github.com/dwisiswant0/apkleaks" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dwisiswant0&amp;repo=apkleaks">
+          <a href="https://github.com/northboys/cloudflare-grafana" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=northboys&amp;repo=cloudflare-grafana">
           </a>
           </span>
           <!-- <a href="{{ project.redirect }}" target="_blank">
@@ -29,7 +29,7 @@ published: true
           </a> -->
   </div>
 
-  {% else %}
+  <!-- {% else %}
 
   <div class="projectTile">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
@@ -39,7 +39,7 @@ published: true
               <p>{{ project.description }}</p>
           </span>
           </a>
-  </div>
+  </div> -->
 
   {% endif %}
 
