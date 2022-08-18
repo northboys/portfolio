@@ -29,7 +29,7 @@ published: true
           </a> -->
   </div>
 
-  <!-- {% else %}
+  {% else %}
 
   <div class="projectTile">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
@@ -39,7 +39,7 @@ published: true
               <p>{{ project.description }}</p>
           </span>
           </a>
-  </div> -->
+  </div>
 
   {% endif %}
 
