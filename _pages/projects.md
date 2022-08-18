@@ -15,13 +15,18 @@ published: true
 
   {% if project.redirect %}
   <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
+          <span>
+          <a href="https://github.com/dwisiswant0/apkleaks" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dwisiswant0&amp;repo=apkleaks">
+          </a>
+          </span>
+          <!-- <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
               <p>{{ project.description }}</p>
           </span>
-          </a>
+          </a> -->
   </div>
 
   {% else %}
